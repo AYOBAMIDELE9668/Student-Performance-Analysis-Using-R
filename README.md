@@ -5,8 +5,6 @@ This project explores how students' daily habits impact their academic performan
 
 To analyze the relationship between students' daily routines and their academic outcomes, and to develop predictive models for estimating exam performance.
 
----
-
 ## 🧠 Dataset Overview
 
 The dataset includes the following features:
@@ -59,8 +57,6 @@ Using the `caret` package with 5-fold cross-validation, we trained the following
 ### 📊 Model Evaluation
 
 All models were evaluated using **RMSE (Root Mean Square Error)** on the test set. The **Linear Regression** model performed exceptionally well, confirming the linear relationship between study habits and exam scores.
-
----
 
 ## 🛠 Tools & Technologies
 
